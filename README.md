@@ -1,4 +1,4 @@
-# 🧠 WhatsApp Web Extractor with Incremental Scroll
+# WhatsApp Web Extractor with Incremental Scroll
 
 A simple JavaScript console tool designed to help you **capture entire WhatsApp chats** by automatically scrolling through them from start to finish.  
 Just paste it into your browser’s developer console while WhatsApp Web is open, and it will handle the scrolling for you.
