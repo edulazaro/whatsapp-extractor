@@ -20,8 +20,8 @@ Just paste it into your browser’s developer console while WhatsApp Web is open
 
 ## Disclaimer
 
-This tool does **not** store, send, or share your chat data. 
-Please DO NOT use this tool in order to store private information.
-It's intended for **personal use only**.
+- This tool does **not** store, send, or share your chat data. 
+- Please DO NOT use this tool in order to store private information.
+- It's intended for **personal use only**.
 
 
