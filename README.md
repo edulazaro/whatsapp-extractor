@@ -11,7 +11,7 @@ Just paste it into your browser’s developer console while WhatsApp Web is open
 1. Open [WhatsApp Web](https://web.whatsapp.com) in your browser.  
 2. Open the **chat** you want to extract.  
 3. Press **F12** or right-click → *Inspect → Console*.  
-4. Paste the script and press **Enter**.  
+4. Paste the script in the `app.js` file and press **Enter**.  
 5. Follow the console instructions:
    - Scroll all the way up to the first message.  
    - Let the script scroll down automatically and capture everything.
